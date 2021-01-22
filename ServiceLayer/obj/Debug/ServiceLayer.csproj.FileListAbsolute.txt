@@ -1,0 +1,6 @@
+C:\Users\andrei.serban\source\repos\andreiserbanrazvan\mvpDemo\ServiceLayer\bin\Debug\ServiceLayer.dll
+C:\Users\andrei.serban\source\repos\andreiserbanrazvan\mvpDemo\ServiceLayer\bin\Debug\ServiceLayer.pdb
+C:\Users\andrei.serban\source\repos\andreiserbanrazvan\mvpDemo\ServiceLayer\obj\Debug\ServiceLayer.csprojAssemblyReference.cache
+C:\Users\andrei.serban\source\repos\andreiserbanrazvan\mvpDemo\ServiceLayer\obj\Debug\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\andrei.serban\source\repos\andreiserbanrazvan\mvpDemo\ServiceLayer\obj\Debug\ServiceLayer.dll
+C:\Users\andrei.serban\source\repos\andreiserbanrazvan\mvpDemo\ServiceLayer\obj\Debug\ServiceLayer.pdb

@@ -1,0 +1,6 @@
+C:\Users\andrei.serban\Source\Repos\andreiserbanrazvan\mvpDemo\DomainLayer\bin\Debug\DomainLayer.dll
+C:\Users\andrei.serban\Source\Repos\andreiserbanrazvan\mvpDemo\DomainLayer\bin\Debug\DomainLayer.pdb
+C:\Users\andrei.serban\Source\Repos\andreiserbanrazvan\mvpDemo\DomainLayer\obj\Debug\DomainLayer.csprojAssemblyReference.cache
+C:\Users\andrei.serban\Source\Repos\andreiserbanrazvan\mvpDemo\DomainLayer\obj\Debug\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\andrei.serban\Source\Repos\andreiserbanrazvan\mvpDemo\DomainLayer\obj\Debug\DomainLayer.dll
+C:\Users\andrei.serban\Source\Repos\andreiserbanrazvan\mvpDemo\DomainLayer\obj\Debug\DomainLayer.pdb
