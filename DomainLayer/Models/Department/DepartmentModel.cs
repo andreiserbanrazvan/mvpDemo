@@ -13,8 +13,8 @@ namespace DomainLayer.Models.Department
             ErrorMessage = "URL format is incorrect")]
         public string DepartmentUrl { get; set; }
         [Required(ErrorMessage = "Phone number is required")]
-        [RegularExpression(@"^[01]?[\(\)\.\- ]{0,}[0-9]{3}[\(\)\.\- ]{0,}[0-9]{3}[\(\)\.\- ]{0,}[0,9]{4}[\(\)\.\- ](0,)$",
-            ErrorMessage = "Phone format is incorrect")]
+        [RegularExpression(@"^\(?([0-9]{2})[-. ]?([0-9]{4})[-. ]?([0-9]{3})[-. ]?([0-9]{3})$",
+            ErrorMessage = "Not a valid Phone number")]
         public string PhoneNumber { get; set; }
         [Required(ErrorMessage = "Email is a Required field.")]
         [RegularExpression(@"[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}", ErrorMessage = "Incorrect Email Format")]
